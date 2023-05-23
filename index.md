@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<meta http-equiv="Permissions-Policy" content="interest-cohort=()">
 <div id="chart-container"></div>
 <script src="{{ site.baseurl }}/chart.js"></script>
 
